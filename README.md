@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a motivated Pre-Final year B.Tech student specializing in Artificial Intelligence and Machine Learning, with strong skills in data analysis, machine learning, and software development. I have worked as a Data Analyst Intern at Oasis Infobyte, gaining hands-on experience in EDA, customer segmentation, and predictive modelling. I am currently learning advanced ML techniques and backend development frameworks to strengthen my technical expertise. Proficient in Python, Java, C/C++, R, MySQL, MongoDB, FastAPI, Flask, and Streamlit, I bring strong analytical thinking and coding abilities to my work. I am also an expert in problem-solving, teamwork, communication, and leadership, and I am driven by a deep passion for continuous learning and applying emerging technologies to solve real-world challenges.
-
+Machine Learning Engineer with experience in designing end-to-end solutions through data-driven ap
+proaches. Achievements in managing technical projects with a conceptual approach from start to deliv
+ery. Proficient in working in Python programming languages while implementing algorithms in machine
+learning. Proficient in solving complex business problems through designing scalable technical solutions.
+Ability to produce results through algorithmic optimization.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riddikulus234) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-raj-27ba75300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hr4798824@gmail.com) 
