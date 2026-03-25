@@ -1,5 +1,6 @@
 # 💫 About Me:
-Machine Learning Engineer with experience in designing end-to-end solutions through data-driven approaches. Achievements in managing technical projects with a conceptual approach from start to delivery. Proficient in Python and implementing machine learning algorithms. Skilled in solving complex business problems through scalable technical solutions and algorithmic optimization.
+Machine Learning Engineer with hands-on experience in designing and deploying end-to-end solutions driven by data-centric methodologies. Proven ability to manage and deliver technical projects with a structured, conceptual approach—from problem definition and data analysis to model development and deployment. Proficient in Python and experienced in implementing a wide range of machine learning algorithms, including supervised and unsupervised learning techniques.
+Adept at solving complex, real-world business problems by building scalable, efficient, and robust technical solutions. Strong foundation in data preprocessing, feature engineering, model optimization, and performance evaluation. Passionate about leveraging data insights and algorithmic innovation to drive decision-making and create impactful solutions. Demonstrates a continuous learning mindset with a focus on improving system performance and applying cutting-edge technologies in practical scenarios.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riddikulus234) 
